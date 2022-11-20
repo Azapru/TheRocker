@@ -1,6 +1,6 @@
 
 ## About this app
-This app allows you to play vine boom sound used in "the rock eyebrow" memes.
+This app allows you to play vine boom sound used in "the rock eyebrow" memes, at any time, no matter what you are doing.
 It's highly customizable by allowing you to modify sounds and keybinds.
 
 Windows only, sorry linux users :/
